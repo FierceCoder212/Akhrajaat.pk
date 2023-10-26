@@ -1,5 +1,5 @@
 
-###Akhrajaat.pk - Finance Tracking Web App
+Akhrajaat.pk - Finance Tracking Web App
 
 
 ![Akhrjaat PK](https://github.com/abdi-z/InternalMD/assets/92116477/99a5f1de-a588-4912-ab78-cd7909c35008)
