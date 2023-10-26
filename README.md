@@ -1,92 +1,46 @@
-Akhrajaat is full stack application where users can store their personal finances to track their expenditures in real time and access them anywhere using one account.
 
-Firebase utilized for backend services such as firestore database, user authentication as well as deployment. 
-Minimalistic UI with simple yet elegant animations created using React and Animate.css.
-
-<img width="960" alt="signup" src="https://user-images.githubusercontent.com/92116477/169133953-c10a900a-d4fa-4a69-9cd2-1c8c4ef9f678.png">
-
-Live url available https://akhrajaat-de70f.web.app/signup 
-
-<img width="958" alt="login" src="https://user-images.githubusercontent.com/92116477/169133896-835163ee-29ed-48be-acb5-da86b3890145.png">
-
-Now you can start saving with convenience as well!
-
-<img width="959" alt="pages" src="https://user-images.githubusercontent.com/92116477/169133921-4c7ec0d0-73c4-464a-9702-c3c9a7e76688.png">
+3 - Akhrajaat.pk - Finance Tracking Web App
 
 
+![Akhrjaat PK](https://github.com/abdi-z/InternalMD/assets/92116477/99a5f1de-a588-4912-ab78-cd7909c35008)
 
 
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Akhrajaat pk](https://github.com/abdi-z/InternalMD/assets/92116477/4c2d3440-bf05-44d6-81d1-7993560dc83e)
 
 
+![Akhrajaat pk 3](https://github.com/abdi-z/InternalMD/assets/92116477/778d2b06-9e93-4d97-92eb-73317e024cda)
 
+
+Akhrajaaat.pk is a personal spending and finance tracker web app that allows users to keep track of their finances anywhere on the go.
+
+
+**Overview:**
+
+Akhrajaaat is a modern web application that simplifies the daunting task of personal finance management. As the creator of Akhrajaaat, I've developed and launched this user-friendly platform to empower individuals to track their spending, save money, and achieve financial goals, all from the convenience of their smartphones and computers.
+
+**Project Description:**
+
+Akhrajaaat is a comprehensive personal finance tracker that caters to users who value financial awareness and efficiency. Here are the key features that make Akhrajaaat an exceptional tool:
+
+- **Expense Tracking:** Users can effortlessly record and categorize their daily expenses, making it easy to understand where their money is going.
+    
+- **Income Management:** Akhrajaaat provides a platform for users to input and manage their sources of income, allowing for a holistic view of their financial situation.
+    
+- **Budgeting:** The platform enables users to set financial goals and create budgets to ensure they are saving and spending in line with their objectives.
+    
+- **Transaction Analysis:** Akhrajaaat offers in-depth analytics, including charts and reports, to help users gain insights into their spending patterns and identify areas where they can save.
+    
+- **Secure Data Storage:** User financial data is stored securely, ensuring the highest level of privacy and data protection.
+    
+- **Cross-Device Compatibility:** Akhrajaaat is accessible on both mobile devices and computers, allowing users to track their finances on the go.
+    
+
+**Technologies Used:**
+
+- **Front-end:** The platform boasts a responsive, user-friendly interface created using modern web technologies including React JS, Animate.css and other auxiliary javascript packaages.
+    
+- **Back-end:**  Akhrajaaat utilizes a robust, secure and scalable database system, with Firbase as the foundation for storing user financial data. Its also used for authentication and authorization of users.
+    
+- **User Authentication:** The platform integrates secure user authentication mechanisms to protect sensitive financial information.
+    
+- **Hosting and Deployment:** Akhrajaaat is hosted on a reliable cloud infrastructure (e.g., AWS or Heroku) and leverages CI/CD pipelines to facilitate updates and maintenance.
